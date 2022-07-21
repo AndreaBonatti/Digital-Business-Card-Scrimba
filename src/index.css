@@ -1,0 +1,104 @@
+#navbar > img {
+  border-radius: 10px 10px 0 0;
+}
+
+#navbar-h1 {
+  margin: 20px 0 0 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #2B283A;
+}
+
+#navbar-h2 {
+  margin: 6.19px 0 0 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  color: #F47D27;
+}
+
+#navbar-h3 {
+  margin: 8.81px 0 0 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #4A4E74;
+}
+
+#navbar-btns {
+  margin: 17px 0 25px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 12px;
+  gap: 17px;
+}
+
+.navbar-btn {
+  width: 115px;
+  height: 34px;
+  background: #FFFFFF;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #374151;
+}
+
+.navbar-btn>i {
+    width: 16px;
+    height: 16px;;
+}
+
+#navbar-linkedin-btn {
+  background: #297FE5;
+  border: none;
+  color: white;
+}
+
+
+#main {
+  margin-bottom: 45px;
+}
+
+#main-h4-about, #main-h4-interests {
+  text-align: left;
+  margin: 0px 35px 5px 35px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  color: #2B283A;
+}
+
+#main-h5-about, #main-h5-interests {
+  text-align: left;
+  margin: 0px 35px 17px 35px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #4A4E74;
+}
+
+#footer {
+  background: #D5D4D8;
+  height: 24px;
+  padding: 24px;
+  border-radius: 0 0 10px 10px;
+}
+
+.footer-icon {
+  margin: 0px 12px;
+  color: #918E9B;
+}
